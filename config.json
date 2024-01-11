@@ -1,0 +1,15 @@
+{
+    "Prefix": ".",
+    "Token": "MTE5MjQzMjU3NzA2NDIxODY2NQ.GZlPKP.EKMYQkarQLOZIWGYdWxD5XmTLeuYvergtgY8_0",
+    "MongoURL": "mongodb+srv://agmafarm2:agma2003@cluster0.e51t6nh.mongodb.net/?retryWrites=true&w=majority",
+    "Admin": ["1140676104139587725"],
+    "Owner": "1140676104139587725",
+    "roleBuyer": "1138135663250780161",
+    "channelTesti": "1159406158742831184",
+    "textActivity": [
+        ".h",
+        ""
+    ],
+    "imageUrl": "https://cdn.discordapp.com/attachments/1147841642850689024/1147845071790678066/standard_6.gif?ex=65155987&is=65140807&hm=116c47bd59a3625a97b481a3a304d8560cd0358f5d3d62346f057f56cf7b135e&",
+    "channelIdStock": "1159406136613683270"
+}
